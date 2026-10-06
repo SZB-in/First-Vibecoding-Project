@@ -10,7 +10,7 @@
 
 > "Code with the vibe, improve with experience."
 
-## About me + uni
+## About me and uni
 
 <!DOCTYPE html>
 <html lang="en">
