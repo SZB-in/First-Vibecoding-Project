@@ -9,3 +9,5 @@
 - Focus on momentum instead of perfection.
 
 > "Code with the vibe, improve with experience."
+
+## About me + uni
